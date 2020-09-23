@@ -8,6 +8,10 @@ NOTICE: Requires Erlang/OTP 21.3 to build since EMQ X 3.2
 
 There are 4 target profiles for building emqx-rel: emqx, emqx-pkg, emqx-edge,and emqx-edge-pkg. The default target profile is emqx. User can build specified target release by execute command `make ${target-release}` in emqx_rel.
 
+## Install form Helm3
+https://www.emqx.io/cn/blog/rapidly-deploy-emqx-clusters-on-kubernetes-via-helm
+
+
 ## Install Erlang/OTP-R21.3 and rebar3
 
 Read the section below and install rebar3
